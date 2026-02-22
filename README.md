@@ -122,3 +122,44 @@ Regional marketing strategies
 
 International expansion decisions
 Repository Link: https://github.com/DK116-star/data-story-telling
+Technical Skills Demonstrated
+
+Python (Pandas, NumPy, SciPy)
+
+Data Cleaning & Wrangling
+
+Exploratory Data Analysis (EDA)
+
+Data Visualization
+
+Hypothesis Testing
+
+Statistical Interpretation
+
+Business Insight Development
+
+Presentation & Stakeholder Communication
+
+Git & GitHub Version Control
+
+📈 Key Learnings
+
+Through this internship, I developed:
+
+The ability to translate raw data into business insights
+
+Understanding of statistical validation in decision-making
+
+Confidence in presenting analytical findings
+
+Structured thinking for end-to-end analytics workflows
+
+Professional GitHub portfolio management
+
+🚀 Business Impact
+
+This project demonstrates how:
+
+Data + Statistical Rigor = Confident Business Decisions
+
+Instead of relying on assumptions, insights were validated using hypothesis testing to ensure reliability and strategic confidence.
